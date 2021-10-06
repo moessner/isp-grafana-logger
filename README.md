@@ -1,2 +1,2 @@
 # isp-grafana-logger
-Logs internet availability connection and display it in a grafana board
+Logs internet availability over time and display it in a grafana board
